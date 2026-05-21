@@ -1,12 +1,20 @@
 {
   "name": "masc-reset",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A modern, lightweight, and customizable CSS reset that provides a clean and consistent foundation for any web project.",
   "main": "reset.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "css-reset",
+    "reset-css",
+    "modern-css",
+    "css",
+    "normalize",
+    "frontend",
+    "web"
+  ],
   "author": "MASC - Melvin Antonio Santana Cueto",
   "license": "MIT"
 }
